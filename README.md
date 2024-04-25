@@ -1,1 +1,6 @@
-![image](https://github.com/rodlenbasilio/activity8_teamname/assets/44938452/468a778a-7557-47d1-8ef2-9d684896a188)
+**Sample submission that you need to pass.**
+
+Screenshot from the demonstration of lesson 8 on Dartpad.
+
+
+![image](https://github.com/rodlenbasilio/lesson8-DemonstrationCode/assets/44938452/dd7adaad-e62f-482e-a42c-e99b043d9eee)
